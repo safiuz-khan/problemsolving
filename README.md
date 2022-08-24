@@ -1,2 +1,2 @@
 # problemsolving
-This is for practising java codes online
+This is for solving problems on Leetcode,hackerrand and geeksforgeek
